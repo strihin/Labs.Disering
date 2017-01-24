@@ -1,0 +1,11 @@
+D:\misha\d\Univer\8 семестр\Графика\Илю\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\misha\d\Univer\8 семестр\Графика\Илю\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\misha\d\Univer\8 семестр\Графика\Илю\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Disering.Form1.resources
+D:\misha\d\Univer\8 семестр\Графика\Илю\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Disering.Properties.Resources.resources
+D:\misha\d\Univer\8 семестр\Графика\Илю\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Disering.csproj.GenerateResource.Cache
+D:\misha\d\Univer\8 семестр\Графика\Илю\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\misha\d\Univer\8 семестр\Графика\Илю\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\misha\d\Univer\8 семестр\Графика\Илю\Disering\Disering\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\misha\d\Univer\8 семестр\Графика\Илю\Disering\Disering\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\misha\d\Univer\8 семестр\Графика\Labs\Disering\Disering\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\misha\d\Univer\8 семестр\Графика\Labs\Disering\Disering\obj\x86\Debug\WindowsFormsApplication3.pdb
