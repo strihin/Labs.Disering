@@ -7,7 +7,6 @@ namespace Disering
 {
     static class Program
     {
-        //test commit by GUI
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
