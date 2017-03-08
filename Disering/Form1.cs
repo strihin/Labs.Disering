@@ -133,7 +133,7 @@ namespace Disering
         {
             if (SelectedColors.Count == AvailableColorsCount)
             {
-                return;
+                return;                
             }
 
             colorDialog1.ShowDialog();
@@ -151,7 +151,7 @@ namespace Disering
         {
             Bitmap inputBitmap = new Bitmap(pictureBox1.Image);
             Bitmap outputBitmap = new Bitmap(pictureBox1.Image.Width * 3, pictureBox1.Image.Height * 3);
-
+//test commit by GUI
             BitmapData inputData = inputBitmap.LockBits(new Rectangle(0, 0, inputBitmap.Width, inputBitmap.Height), ImageLockMode.ReadWrite, inputBitmap.PixelFormat);
             BitmapData outputData = outputBitmap.LockBits(new Rectangle(0, 0, outputBitmap.Width, outputBitmap.Height), ImageLockMode.ReadWrite, inputBitmap.PixelFormat);
 
